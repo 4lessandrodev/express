@@ -1,0 +1,5 @@
+*Inicializar a aplicação 
+npm init
+
+*instalar o pacote do express
+npm install express --save
